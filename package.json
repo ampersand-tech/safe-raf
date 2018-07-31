@@ -32,6 +32,6 @@
     "typescript": "^2.9.2"
   },
   "dependencies": {
-    "amper-utils": "git+ssh://git@github.com/ampersandtech/utils.git"
+    "amper-utils": "git+ssh://git@github.com/ampersandtech/amper-utils.git"
   }
 }
