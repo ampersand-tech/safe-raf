@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ampersandtech/safe-raf.git"
+    "url": "git+https://github.com/ampersand-tech/safe-raf.git"
   },
   "keywords": [
     "quark",
@@ -20,9 +20,9 @@
   "author": "Ampersand Technologies, Inc.",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ampersandtech/safe-raf/issues"
+    "url": "https://github.com/ampersand-tech/safe-raf/issues"
   },
-  "homepage": "https://github.com/ampersandtech/safe-raf#readme",
+  "homepage": "https://github.com/ampersand-tech/safe-raf#readme",
   "devDependencies": {
     "@types/chai": "^4.1.4",
     "@types/mocha": "^5.2.5",
@@ -32,6 +32,6 @@
     "typescript": "^2.9.2"
   },
   "dependencies": {
-    "amper-utils": "git+ssh://git@github.com/ampersandtech/amper-utils.git"
+    "amper-utils": "git+ssh://git@github.com/ampersand-tech/amper-utils.git"
   }
 }
