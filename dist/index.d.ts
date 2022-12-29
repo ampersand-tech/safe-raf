@@ -2,8 +2,8 @@
  * Copyright 2014-present Ampersand Technologies, Inc.
  */
 export declare function getNow(): number;
-export declare type AnimFrameCallback = (time?: number) => void;
-export declare type AnimFrameUserHandle = {
+export type AnimFrameCallback = (time?: number) => void;
+export type AnimFrameUserHandle = {
     cb: AnimFrameCallback | null;
     timer?: number;
     rafID?: number;

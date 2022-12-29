@@ -3,6 +3,7 @@
  * Copyright 2014-present Ampersand Technologies, Inc.
  */
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.cancelAnimationFrame = exports.requestAnimationFrame = exports.getNow = void 0;
 var hasRAF = false;
 try {
     hasRAF = !!window.requestAnimationFrame;
